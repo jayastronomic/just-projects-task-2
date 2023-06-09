@@ -126,4 +126,12 @@ th,
 td {
   border: 1px solid black;
   border-collapse: collapse;
+  padding: 0.75rem 4rem 0.75rem 0.75rem;
+}
+
+th {
+  font-weight: bolder;
+}
+
+td {
 }
